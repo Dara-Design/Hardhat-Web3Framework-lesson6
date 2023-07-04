@@ -1,9 +1,11 @@
 https://hardhat.org/  Ethereum development environment for professionals
  HARDHAT installation:
-npm init
-npm add --dev hardhat
-npx hardhat
-npx hardhat compile // to compile --> we get artifacts and cache folder
+
+
+npm init | 
+npm add --dev hardhat |
+npx hardhat  |
+npx hardhat compile // to compile --> we get artifacts and cache folder 
 
 artifacts folder containts all the information about our compiled code
 
